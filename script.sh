@@ -1,1 +1,1 @@
-echo "Run for the hills"
+echo "Run for the hills with plugin"
